@@ -4,9 +4,9 @@ A real-time business performance dashboard that aggregates data from multiple Mi
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/tzockoll-creator/StrategyCommandCenterPerplexityComputer/raw/main/demo-assets/demo.mp4
 
-> The demo video above walks through the main dashboard and drill-down views. If the video doesn't render, see the [demo-assets/](demo-assets/) folder.
+> The demo video above walks through the main dashboard and drill-down views. If the video doesn't render inline, [download it here](demo-assets/demo.mp4) or see the screenshots below.
 
 ## Screenshots
 
